@@ -2,7 +2,7 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://AnnaKostyanaya/goit-js-hw-07",
+  "homepage": "https://AnnaKostyanaya.github.io/goit-js-hw-07/index.html",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hw-07"
